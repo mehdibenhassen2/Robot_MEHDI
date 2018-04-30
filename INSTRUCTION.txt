@@ -1,0 +1,17 @@
+Hi James,
+To run the code, please run "lib/main.rb
+
+To test (65 test in total)
+---go to "spec/motion_input" folder
+
+* "left_input.rb"  ==> run "left_input_spec.rb"   ==> 4 tests
+* "right_input.rb" ==> run "right_input_spec.rb"  ==> 4 tests
+* "move_input.rb" ==> run "move_input_spec.rb" ==> 5 tests
+* "place_input.rb" ==> run "place_input_spec.rb" ==> 3 tests
+* "report_input.rb" ==> run "report_input_spec.rb" ==> 2 tests
+
+---go to "spec" folder
+* "position.rb" ==> run "position_spec.rb" ==> 13 tests
+* "robot.rb" ==> run "report_spec.rb" ==> 15 tests
+* "table.rb" ==> run "table_spec.rb" ==> 8 tests
+* "user.rb" ==> run "user_spec.rb" ==> 11 tests
